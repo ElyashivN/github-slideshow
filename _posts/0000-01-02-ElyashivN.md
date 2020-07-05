@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Dovie'andi se tovya sagain
 Use the left arrow to go back!
